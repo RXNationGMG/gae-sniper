@@ -1,17 +1,18 @@
 {
-  "token": "ODIwNzc5OTcxMzEyMjIyMjIw.YbdSLg.ZEgBcqV6nuWm5Oj45zXKjBO4WN4",
+  "token": "",
   "on_alt": false,
-  "reedem_token": "ODIwNzc5OTcxMzEyMjIyMjIw.YbdSLg.ZEgBcqV6nuWm5Oj45zXKjBO4WN4",
+  "reedem_token": "
+",
   "notification": true,
   "webhook_notification": true,
-  "webhook": "https://discord.com/api/webhooks/935705712787615824/ktyQrgGh4ht2rI6gMQ2C8Lo7AlgLI9Z0L5Ek8GQFGRGJJPN3SnDXDfReYRfSctNChKZE",
+  "webhook": "",
 
   "delay_enabled": true,
-  "delay": 15,
+  "delay": 1,
 
   "nitro_sniper": true,
   "giveaway_sniper": true,
   "privnote_sniper": true,
 
-  "bot_list": [294882584201003009, 673918978178940951, 582537632991543307, 649604306596528138, 396464677032427530]
+  "bot_list": [294882584201003009, 673918978178940951, 582537632991543307, 649604306596528138, 396464677032427530, 634866217764651009]
 }
