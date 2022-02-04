@@ -1,8 +1,7 @@
 {
   "token": "",
   "on_alt": false,
-  "reedem_token": "
-",
+  "reedem_token": "",
   "notification": true,
   "webhook_notification": true,
   "webhook": "",
